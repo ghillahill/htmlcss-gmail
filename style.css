@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    }
+
+header{
+    margin:20px 0;
+    vertical-align: middle;
+}
+
+body{
+    font-size: 30px;
+    background-image: url("./img/wood.jpg");
+    width: 1000px;
+    margin:auto;
+    }
+
+section{
+        color: white;
+    }
+
+footer{
+    color: white;
+}
+
+#gmail-header{
+        color: white;
+        display: inline;
+    }
+
+#search{
+        margin: 0;
+        color: black;
+    }
+
+#button{
+        margin:0;
+        border-radius: 5px;
+        color:black;
+    }
+
+#text-one{
+    margin: 20px 0;
+}
+
+#container{
+    margin: 15px 0;
+}
+
+#row{
+    margin:0;
+    border: 2px solid black;
+    background-color: lightgrey;
+    }
+
+#row2{
+    border: 2px solid black;
+    background-color: white;
+    }
+
+#row-left{
+    padding: 5px;
+    font-size: 18px;
+    display: inline-block;
+}
+
+#subject{
+    color:black;
+}
+
+#text-area{
+    color:rgba(117, 117, 117, 0.59);
+}
+
+
+#logo-Gmail{
+    vertical-align: middle;
+    margin:0;
+    width: 150px;
+    height: 100px;
+    }
+
+#footer-phares{
+    text-align: center;
+}
+
+#o-circle{
+    display: inline;
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border-radius: 50px;
+}
